@@ -62,6 +62,6 @@ Feel free to fork the repository, create a new branch, and submit a pull request
 
 ### 👩‍💻 Author
 - **Amira Sayed Mohamed Ali**
-🔗 [LinkedIn Profile]([https://www.linkedin.com/in/AmiraSayedMohamed](https://www.linkedin.com/in/amira-sayed-mohamed-79822b245/))  | 🐙 [GitHub Profile]([https://github.com/AmiraSayedMohamed](https://github.com/AmiraSayedMohamed))
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/AmiraSayedMohamed](https://www.linkedin.com/in/amira-sayed-mohamed-79822b245/)  | 🐙 [GitHub Profile](https://github.com/AmiraSayedMohamed)
 
 
