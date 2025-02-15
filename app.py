@@ -20,4 +20,4 @@ def check_ip():
         return f"Access Denied! Your IP: {user_ip}", 403  # Display IP for debugging
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000, debug=True)
+    app.run(host="0.0.0.0", port=1000, debug=True)
