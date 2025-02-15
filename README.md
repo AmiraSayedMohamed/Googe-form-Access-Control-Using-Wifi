@@ -20,7 +20,7 @@ This Flask-based application restricts access to a Google Form based on the user
 ## 🖼️ Project Preview  
 
 ### 🔹 Authorized User  
-![Allowed User](assets/allowed_user.png)  
+![Allowed User](https://github.com/AmiraSayedMohamed/Googe-form-Access-Control-Using-Wifi/blob/master/pictures/picAcceptAccess.jpg)
 
 ### 🔹 Unauthorized User  
 ![Blocked User](assets/blocked_user.png)  
